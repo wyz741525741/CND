@@ -449,7 +449,7 @@ i:hover {
 }
 
 #subtitle {
-    background: linear-gradient(-45deg, #FF4500, #FFFF00, #00FF00, #00BFFF, #DA70D6, #F8F8FF);
+    background: linear-gradient(-45deg, #FF4500, #FFFF00, #00FF00, #00BFFF);
     background-size: 400% 400%;
     -webkit-animation: Gradient 10s ease infinite;
     -moz-animation: Gradient 10s ease infinite;
