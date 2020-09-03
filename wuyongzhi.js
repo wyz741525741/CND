@@ -38,7 +38,7 @@ document.addEventListener('visibilitychange', function() {
 // 气泡
 function qipao() {
     $('#page-header').circleMagic({
-        radius: 100,
+        radius: 10,
         density: .2,
         color: 'rgba(255,255,255,.4)',
         clearOffset: 0.99
